@@ -1,2 +1,0 @@
-Esse sistema é desenvolvido por Jamba, para suprir a falta de AioSystem mensal 
-e em base nesse desenvolvido vou escrever item mensal.  Com Arquivo de configuração para a leitura dos dados
