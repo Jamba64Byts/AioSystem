@@ -1,14 +1,2 @@
 Fixed function Read file, typo INT64 + static
 Folder config for path IniConfig add in project
-		<Filter
-			Name="IniConfig"
-			>
-			<File
-				RelativePath="..\IniConfig\AioSystem.ini"
-				>
-			</File>
-		</Filter>
-    
-
-
-
