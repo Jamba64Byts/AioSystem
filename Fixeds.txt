@@ -1,0 +1,2 @@
+-Fiexed function Read file, void
++Read static
