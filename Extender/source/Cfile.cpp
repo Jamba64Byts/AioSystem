@@ -1,3 +1,4 @@
+//Desenvolvida por jamba
 #include "StdAfx.h"
 #include "Cfile.h"
 
