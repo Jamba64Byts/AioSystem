@@ -1,2 +1,5 @@
--Fiexed function Read file, void
-+Read static
++Fiexed function Read file, INT64 + Read static
++Floder config for path IniConfig add in project
+
+
+
