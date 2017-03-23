@@ -1,5 +1,14 @@
 +Fiexed function Read file, INT64 + Read static
 +Floder config for path IniConfig add in project
+		<Filter
+			Name="IniConfig"
+			>
+			<File
+				RelativePath="..\IniConfig\AioSystem.ini"
+				>
+			</File>
+		</Filter>
+    
 
 
 
